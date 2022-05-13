@@ -56,6 +56,24 @@
 .timeline-card-success:after {
   background-color: #37BC9B; }
 
+  .timeline-card-cert {
+    border-left-color: #d2dc4a; }
+
+  .timeline-card-cert:before {
+    border-color: #d2dc4a; }
+
+  .timeline-card-cert:after {
+    background-color: #d2dc4a; }
+
+    .timeline-card-works {
+      border-left-color: #dc9d4a; }
+
+    .timeline-card-works:before {
+      border-color: #dc9d4a; }
+
+    .timeline-card-works:after {
+      background-color: #dc9d4a; }
+
 html {
   scroll-behavior: smooth; }
 
